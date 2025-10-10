@@ -26,6 +26,5 @@ The lecture is held every winter term and consists of one lecture per week and e
 The seminar discusses advanced topics in applications of deep learning methods in biology and medicine. We cover applications in image analysis, structural biology (e.g. protein folding with Alpha Fold), large language models in medicine and more. The seminar is offered every summer term.
 
 ### Thesis and student projects
+
 We are currently not offering any thesis topics. Previous topics have been on the application of deep learning and computer vision in biology and medicine. You can find an overview of previous projects here. New projects will be offered in the winter term 2025.
-
-
