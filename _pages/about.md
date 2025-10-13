@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Institute at Computer Science</a> Georg-August University Göttingen
+subtitle: <a href='#'>Institute of Computer Science</a> Georg-August University Göttingen
 
 profile:
   align: right
-  image: group_picture.png
+  image: group_picture.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
